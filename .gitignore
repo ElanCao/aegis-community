@@ -1,0 +1,15 @@
+node_modules/
+.next/
+dist/
+out/
+*.tsbuildinfo
+.env
+.env.local
+.DS_Store
+apps/agent/out/
+apps/agent/dist/
+apps/agent/release/
+prisma/migrations/dev.db*
+*.log
+apps/server/public/
+apps/server/dist/
