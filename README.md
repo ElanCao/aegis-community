@@ -49,4 +49,4 @@ Apache License 2.0（见各目录 LICENSE）。可自由用于商业环境。
 
 Aegis 提供可选的 SaaS 控制面（多数据面仪表盘、策略统一下发、审计聚合、账单），
 通过 License Key 解锁，按数据面数量计费。社区版与商业版共用同一数据面核心，
-升级无需迁移。详见 [官网文档](https://aegis.example.com/docs)。
+升级无需迁移。详见 [官网文档](https://aegis.futurelabs.vip/docs)。
